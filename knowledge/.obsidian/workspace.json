@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guild/ISO26262/认证文档/Safety Plan.md",
+                "file": "Guild/ISO26262/功能安全笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Safety Plan"
+              "title": "功能安全笔记"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guild/ISO26262/认证文档/Safety Plan.md",
+                "file": "Guild/ISO26262/功能安全笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Safety Plan 的反向链接列表"
+              "title": "功能安全笔记 的反向链接列表"
             }
           },
           {
@@ -184,13 +184,13 @@
   },
   "active": "f768da89be0a9a36",
   "lastOpenFiles": [
-    "Guild/ISO26262/认证文档/ISO26262 File Structure.md",
-    "Guild/ISO26262/认证文档/Safety Plan.md",
-    "Guild/ISO26262/认证文档/P4/Safety Assumption.md",
+    "Guild/ISO26262/ISO26262.md",
     "Guild/ISO26262/认证文档/P4/Architecture Design Specification.md",
+    "Guild/ISO26262/认证文档/Safety Plan.md",
+    "Guild/ISO26262/认证文档/ISO26262 File Structure.md",
+    "Guild/ISO26262/认证文档/P4/Safety Assumption.md",
     "Guild/ISO26262/功能安全笔记.md",
     "Guild/Md_Source/Pasted image 20260623173719.png",
-    "Guild/ISO26262/ISO26262.md",
     "Guild/ISO26262/认证文档/P4",
     "Guild/ISO26262/认证文档",
     "Guild/CM4_CM7/Cache.md",
