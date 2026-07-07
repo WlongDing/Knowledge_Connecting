@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guild/CAN/CAN协议.md",
+                "file": "Guild/CAN/数据帧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAN协议"
+              "title": "数据帧"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guild/CAN/CAN协议.md",
+                "file": "Guild/CAN/数据帧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CAN协议 的反向链接列表"
+              "title": "数据帧 的反向链接列表"
             }
           },
           {
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,12 +182,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ebc10ce1803884ac",
+  "active": "f768da89be0a9a36",
   "lastOpenFiles": [
+    "Guild/CAN/CAN协议.md",
+    "Guild/CAN/数据帧.md",
+    "Guild/CAN/通信机制.md",
+    "Guild/CAN/标准帧.md",
+    "Guild/Md_Source/Pasted image 20260707214254.png",
+    "Pasted image 20260707214236.png",
+    "Guild/CAN/NRZ与位填充.md",
     "Guild/Md_Source/Pasted image 20260706214818.png",
     "Guild/Md_Source/Pasted image 20260706214753.png",
     "Guild/Lib T.md",
-    "Guild/CAN/CAN协议.md",
     "Guild/CM4_CM7/Cache.md",
     "Guild/CM4_CM7/CM4_CM7.md",
     "Guild/Md_Source/Pasted image 20260608175444.png",
