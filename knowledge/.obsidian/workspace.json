@@ -185,7 +185,12 @@
   "active": "f768da89be0a9a36",
   "lastOpenFiles": [
     "Guild/CAN/CAN协议.md",
+    "Guild/CAN/错误帧.md",
+    "Guild/Md_Source/Pasted image 20260709215946.png",
     "Guild/CAN/数据帧.md",
+    "Guild/Md_Source/Pasted image 20260709214336.png",
+    "Guild/Md_Source/Pasted image 20260709214130.png",
+    "Guild/Md_Source/Pasted image 20260709212134.png",
     "Guild/CAN/通信机制.md",
     "Guild/CAN/标准帧.md",
     "Guild/Md_Source/Pasted image 20260707214254.png",
@@ -220,9 +225,7 @@
     "Guild/ISO26262/ISO26262.md.tmp.1376.341c98dbf0f0",
     "Guild/ISO26262",
     "Guild/CM4_CM7/Debug/HardFault定位.md",
-    "Pasted image 20260608175539.png",
     "Guild/Md_Source",
-    "Guild/Md_Source/Pasted image 20260605155347.png",
     "Guild/CM4_CM7/Debug"
   ]
 }
