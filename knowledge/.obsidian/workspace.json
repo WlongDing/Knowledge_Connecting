@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guild/ISO26262/认证文档/ISO26262 File Structure.md",
+                "file": "Guild/ASPICE_Struct/ASPICE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ISO26262 File Structure"
+              "title": "ASPICE"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guild/ISO26262/认证文档/ISO26262 File Structure.md",
+                "file": "Guild/ASPICE_Struct/ASPICE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ISO26262 File Structure 的反向链接列表"
+              "title": "ASPICE 的反向链接列表"
             }
           },
           {
@@ -184,12 +184,15 @@
   },
   "active": "f768da89be0a9a36",
   "lastOpenFiles": [
+    "Guild/ASPICE_Struct/MAM3_PM.md",
+    "Guild/ASPICE_Struct",
+    "Guild/ASPICE_Struct/ASPICE.md",
+    "Guild/ISO26262/认证文档/ISO26262 File Structure.md",
     "Guild/ISO26262/认证文档/P6/Safety Analysis FEMA.md",
     "Guild/ISO26262/功能安全笔记.md",
     "Guild/ISO26262/认证文档/Safety Plan.md",
     "Guild/ISO26262/认证文档/P6/Architecture Design Specification.md",
     "Guild/ISO26262/认证文档/Part 3.md",
-    "Guild/ISO26262/认证文档/ISO26262 File Structure.md",
     "Guild/ISO26262/认证文档/P6/Safety Assumption.md",
     "Guild/ISO26262/ISO26262.md",
     "Guild/CM4_CM7/Cache.md",
@@ -198,7 +201,6 @@
     "Guild/CAN/数据帧.md",
     "Guild/CAN/通信机制.md",
     "Guild/Lib T.md",
-    "Guild/ASPICE.md",
     "Guild/CM4_CM7/CM4_CM7.md",
     "Guild/CM4_CM7/ECC/ECC.md",
     "Guild/CM4_CM7/Debug/Debug_note.md",
@@ -224,7 +226,6 @@
     "Guild/ISO26262/ISO26262.md.tmp.1376.e43b8405b3a0",
     "Guild/ISO26262/ISO26262.md.tmp.1376.341c98dbf0f0",
     "Guild/ISO26262",
-    "Guild/Md_Source",
-    "Guild/CM4_CM7/Debug"
+    "Guild/Md_Source"
   ]
 }
