@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guild/CAN/CAN协议.md",
+                "file": "Guild/ISO26262/认证文档/ISO26262 File Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAN协议"
+              "title": "ISO26262 File Structure"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guild/CAN/CAN协议.md",
+                "file": "Guild/ISO26262/认证文档/ISO26262 File Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CAN协议 的反向链接列表"
+              "title": "ISO26262 File Structure 的反向链接列表"
             }
           },
           {
@@ -173,7 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -184,11 +184,26 @@
   },
   "active": "f768da89be0a9a36",
   "lastOpenFiles": [
-    "Guild/CAN/数据帧.md",
-    "Guild/CAN/CAN协议.md",
-    "Guild/CAN/通信机制.md",
-    "Guild/CAN/位定时与同步.md",
+    "Guild/ISO26262/认证文档/P6/Safety Analysis FEMA.md",
+    "Guild/ISO26262/功能安全笔记.md",
+    "Guild/ISO26262/认证文档/Safety Plan.md",
+    "Guild/ISO26262/认证文档/P6/Architecture Design Specification.md",
+    "Guild/ISO26262/认证文档/Part 3.md",
+    "Guild/ISO26262/认证文档/ISO26262 File Structure.md",
+    "Guild/ISO26262/认证文档/P6/Safety Assumption.md",
+    "Guild/ISO26262/ISO26262.md",
+    "Guild/CM4_CM7/Cache.md",
     "Guild/CAN/错误帧.md",
+    "Guild/CAN/CAN协议.md",
+    "Guild/CAN/数据帧.md",
+    "Guild/CAN/通信机制.md",
+    "Guild/Lib T.md",
+    "Guild/ASPICE.md",
+    "Guild/CM4_CM7/CM4_CM7.md",
+    "Guild/CM4_CM7/ECC/ECC.md",
+    "Guild/CM4_CM7/Debug/Debug_note.md",
+    "Guild/CM4_CM7/Debug/HardFault定位.md",
+    "Guild/CAN/位定时与同步.md",
     "Guild/Md_Source/Pasted image 20260709215946.png",
     "Guild/Md_Source/Pasted image 20260709214336.png",
     "Guild/Md_Source/Pasted image 20260709214130.png",
@@ -199,33 +214,16 @@
     "Guild/CAN/NRZ与位填充.md",
     "Guild/Md_Source/Pasted image 20260706214818.png",
     "Guild/Md_Source/Pasted image 20260706214753.png",
-    "Guild/Lib T.md",
-    "Guild/CM4_CM7/Cache.md",
-    "Guild/CM4_CM7/CM4_CM7.md",
     "Guild/Md_Source/Pasted image 20260608175444.png",
-    "Guild/ISO26262/功能安全笔记.md",
-    "Guild/ISO26262/ISO26262.md",
-    "Guild/ISO26262/认证文档/P4/Architecture Design Specification.md",
-    "Guild/ISO26262/认证文档/Safety Plan.md",
-    "Guild/ISO26262/认证文档/ISO26262 File Structure.md",
-    "Guild/ISO26262/功能安全笔记.md",
-    "Guild/ISO26262/ISO26262.md",
-    "Guild/ISO26262/认证文档/Part 3.md",
-    "Guild/ISO26262/认证文档/P4/Safety Assumption.md",
-    "Guild/ISO26262/认证文档/P4/Architecture Design Specification.md",
-    "Guild/ISO26262/认证文档/Safety Plan.md",
     "Guild/Md_Source/Pasted image 20260623173719.png",
-    "Guild/ISO26262/认证文档/P4",
+    "Guild/ISO26262/认证文档/P6",
     "Guild/ISO26262/认证文档",
-    "Guild/CM4_CM7/Debug/Debug_note.md",
     "Guild/CM4_CM7",
-    "Guild/CM4_CM7/ECC/ECC.md",
     "未命名",
     "Guild/ISO26262/新建文本文档.txt",
     "Guild/ISO26262/ISO26262.md.tmp.1376.e43b8405b3a0",
     "Guild/ISO26262/ISO26262.md.tmp.1376.341c98dbf0f0",
     "Guild/ISO26262",
-    "Guild/CM4_CM7/Debug/HardFault定位.md",
     "Guild/Md_Source",
     "Guild/CM4_CM7/Debug"
   ]
