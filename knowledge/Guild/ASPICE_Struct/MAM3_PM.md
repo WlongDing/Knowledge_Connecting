@@ -1,3 +1,4 @@
 
-软件项目计划
-Common角色和职责
+MAN_3_SW_Project_Plan 软件项目计划
+MAN_3_Common_Role & Responsibility Common角色和职责
+MAN_3_SW_Feasibility_Analysis 可行性分析SW_Project_Plan_Checklist 项目计划清单
