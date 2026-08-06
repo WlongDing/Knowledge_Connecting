@@ -1,0 +1,52 @@
+# SUP8_CFGM
+
+## Audit
+
+- FC7300GT_MCAL_350_SUP_8_Configuration Management_Plan_Checklist.xlsx
+
+## BaseLineCAS
+
+- FC7300GT_MCAL_381_SUP_8_CAS_SRQ_BaseLine.xlsx
+- FC7300GT_MCAL_382_SUP_8_CAS_ARC_BaseLine.xlsx
+- FC7300GT_MCAL_383_SUP_8_CAS_SDD_BaseLine.xlsx
+- FC7300GT_MCAL_384_SUP_8_CAS_UT_BaseLine.xlsx
+- FC7300GT_MCAL_385_SUP_8_CAS_IT_BaseLine.xlsx
+- FC7300GT_MCAL_386_SUP_8_CAS_SQT_BaseLine.xlsx
+
+## BaseLineReport
+
+- FC7300GT_MCAL_339_SUP_8_BaseLine_Release_CheckList.xlsx
+- FC7300GT_MCAL_340_SUP_8_Baseline_Release_Report.xlsx
+
+## BaseLineRequest
+
+- FC7300GT_MCAL_360_SUP_8_Man3_BaseLine_Create_Request.xls
+- FC7300GT_MCAL_360_SUP_8_Sup1_BaseLine_Create_Request.xls
+- FC7300GT_MCAL_361_SUP_8_RequirementBaseLine_Create_Request.xls
+- FC7300GT_MCAL_362_SUP_8_ArchitectureBaseLine_Create_Request.xls
+- FC7300GT_MCAL_363_SUP_8_DesignBaseLine_Create_Request.xls
+- FC7300GT_MCAL_364_SUP_8_UnitTestBaseLine_Create_Request.xls
+- FC7300GT_MCAL_365_SUP_8_IntegrationTestBaseLine_Create_Request.xls
+- FC7300GT_MCAL_366_SUP_8_SystemTestBaseLine_Create_Request.xls
+- FC7300GT_MCAL_369_SUP_8_CodeBaseLine_Create_Request.xls
+
+## Plan
+
+- FC7300GT_MCAL_330_SUP_8_Configuration_Management_Plan.docx
+- FC7300GT_MCAL_331_SUP_8_Configuration_Management_Process.docx
+- FC7300GT_MCAL_333_SUP_8_NFR.md
+- FC7300GT_MCAL_337_SUP_8_Right_List.xlsx
+- FC7300GT_MCAL_346_SUP_8_Configuration_Items_List.xlsx
+- FC7300GT_MCAL_367_SUP_8_ModuleOwner - 副本.xlsx
+- FC7300GT_MCAL_367_SUP_8_ModuleOwner.xlsx
+- FC7300GT_MCAL_368_SUP_8_ModuleTestOwner.xlsx
+
+## Template
+
+- FC7300GT_MCAL_332_SUP_8_Configuration_management_process_checklist_Template.xlsx
+- FC7300GT_MCAL_335_SUP_8_Configuration Management_Plan_Checklist_Template.xlsx
+- FC7300GT_MCAL_336_SUP_8_Baseline_Release_Report_Template.xlsx
+- FC7300GT_MCAL_339_SUP_8_BaseLine_Release_CheckList_Template.xlsx
+- FC7300GT_MCAL_341_SUP_8_Baseline_Release_Report_Template.xlsx
+- FC7300GT_MCAL_360_SUP_8_BaseLine_Create_Request_Template.xls
+- FC7300GT_MCAL_380_SUP_8_CAS_BaseLine_Template.xlsx
