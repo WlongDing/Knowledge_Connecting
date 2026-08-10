@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guild/ASPICE_Struct/SWE4_UT.md",
+                "file": "Guild/LIN/进度表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SWE4_UT"
+              "title": "进度表"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#同步间隔段",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guild/ASPICE_Struct/SWE4_UT.md",
+                "file": "Guild/LIN/进度表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SWE4_UT 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -169,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,24 +184,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f768da89be0a9a36",
+  "active": "ebc10ce1803884ac",
   "lastOpenFiles": [
+    "Guild/Md_Source/Pasted image 20260810183934.png",
+    "Guild/LIN/LIN协议.md",
+    "Guild/LIN/进度表.md",
+    "Guild/LIN/帧类型.md",
+    "Guild/Md_Source/Pasted image 20260810183513.png",
+    "Guild/LIN/LIN报文帧结构.md",
+    "Guild/Md_Source/Pasted image 20260810182740.png",
+    "Guild/Md_Source/Pasted image 20260810180709.png",
+    "Guild/Md_Source/Pasted image 20260810175418.png",
+    "Guild/Md_Source/Pasted image 20260810175216.png",
+    "Guild/Md_Source/Pasted image 20260810171355.png",
+    "Guild/Md_Source/Pasted image 20260810171256.png",
+    "Guild/Md_Source/Pasted image 20260810170819.png",
+    "Pasted image 20260810170800.png",
+    "Guild/Md_Source/Pasted image 20260810170722.png",
+    "未命名.base",
+    "未命名 1.base",
+    "Guild/Lib T.md",
+    "Guild/ASPICE_Struct/SWE4_UT.md",
+    "Guild/LIN",
     "Guild/ASPICE_Struct/ASPICE.md",
-    "Guild/Md_Source/Pasted image 20260806182458.png",
     "Guild/ASPICE_Struct/SWE6_SQT.md",
     "Guild/ASPICE_Struct/SWE5_INT.md",
-    "Guild/Md_Source/Pasted image 20260806182449.png",
     "Guild/ASPICE_Struct/SWE3_SDD.md",
-    "Guild/Md_Source/Pasted image 20260806182437.png",
     "Guild/ASPICE_Struct/SWE2_Arc.md",
-    "Guild/Md_Source/Pasted image 20260806182428.png",
     "Guild/ASPICE_Struct/SWE1_SRQ.md",
-    "Guild/Md_Source/Pasted image 20260806182411.png",
     "Guild/ASPICE_Struct/SUP10_CM.md",
     "Guild/ASPICE_Struct/SUP8_CFGM.md",
     "Guild/ASPICE_Struct/SUP9_PRM.md",
     "Guild/ASPICE_Struct/SUP1_QA.md",
-    "Guild/Lib T.md",
     "Guild/CM4_CM7/CM4_CM7.md",
     "Guild/CM4_CM7/内存屏障指令.md",
     "Guild/CAN/错误帧.md",
@@ -208,26 +224,13 @@
     "Guild/CAN/通信机制.md",
     "Guild/CAN/位定时与同步.md",
     "Guild/ASPICE_Struct/MAN5_RISKM.md",
-    "Guild/ASPICE_Struct/SWE4_UT.md",
     "Guild/ASPICE_Struct/MAM3_PM.md",
     "Guild/ASPICE_Struct",
-    "Guild/ISO26262/认证文档/ISO26262 File Structure.md",
-    "Guild/ISO26262/认证文档/P6/Safety Analysis FEMA.md",
-    "Guild/ISO26262/功能安全笔记.md",
-    "Guild/ISO26262/认证文档/Safety Plan.md",
-    "Guild/Md_Source/Pasted image 20260709215946.png",
-    "Guild/Md_Source/Pasted image 20260709214336.png",
-    "Guild/Md_Source/Pasted image 20260709214130.png",
-    "Guild/Md_Source/Pasted image 20260709212134.png",
-    "Guild/Md_Source/Pasted image 20260707214254.png",
     "Guild/ISO26262/认证文档/P6",
     "Guild/ISO26262/认证文档",
     "Guild/CM4_CM7",
-    "未命名",
     "Guild/ISO26262/新建文本文档.txt",
     "Guild/ISO26262/ISO26262.md.tmp.1376.e43b8405b3a0",
-    "Guild/ISO26262/ISO26262.md.tmp.1376.341c98dbf0f0",
-    "Guild/ISO26262",
-    "Guild/Md_Source"
+    "Guild/ISO26262/ISO26262.md.tmp.1376.341c98dbf0f0"
   ]
 }
