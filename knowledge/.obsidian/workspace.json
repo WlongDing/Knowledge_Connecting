@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guild/LIN/进度表.md",
+                "file": "Guild/LIN/帧类型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "进度表"
+              "title": "帧类型"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guild/LIN/进度表.md",
+                "file": "Guild/LIN/帧类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,11 +184,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ebc10ce1803884ac",
+  "active": "f768da89be0a9a36",
   "lastOpenFiles": [
-    "Guild/Md_Source/Pasted image 20260810183934.png",
+    "Guild/TriCore/01_TriCore架构与启动总览.md",
+    "Guild/TriCore/TC375系统学习路线.md",
+    "Guild/TriCore",
     "Guild/LIN/LIN协议.md",
+    "Guild/LIN/状态机.md",
+    "Guild/Md_Source/Pasted image 20260811145216.png",
+    "Guild/Md_Source/Pasted image 20260811145201.png",
+    "Guild/Md_Source/Pasted image 20260811145113.png",
     "Guild/LIN/进度表.md",
+    "Guild/Md_Source/Pasted image 20260810183934.png",
     "Guild/LIN/帧类型.md",
     "Guild/Md_Source/Pasted image 20260810183513.png",
     "Guild/LIN/LIN报文帧结构.md",
@@ -197,10 +204,6 @@
     "Guild/Md_Source/Pasted image 20260810175418.png",
     "Guild/Md_Source/Pasted image 20260810175216.png",
     "Guild/Md_Source/Pasted image 20260810171355.png",
-    "Guild/Md_Source/Pasted image 20260810171256.png",
-    "Guild/Md_Source/Pasted image 20260810170819.png",
-    "Pasted image 20260810170800.png",
-    "Guild/Md_Source/Pasted image 20260810170722.png",
     "未命名.base",
     "未命名 1.base",
     "Guild/Lib T.md",
@@ -223,14 +226,11 @@
     "Guild/CAN/数据帧.md",
     "Guild/CAN/通信机制.md",
     "Guild/CAN/位定时与同步.md",
-    "Guild/ASPICE_Struct/MAN5_RISKM.md",
-    "Guild/ASPICE_Struct/MAM3_PM.md",
     "Guild/ASPICE_Struct",
     "Guild/ISO26262/认证文档/P6",
     "Guild/ISO26262/认证文档",
     "Guild/CM4_CM7",
     "Guild/ISO26262/新建文本文档.txt",
-    "Guild/ISO26262/ISO26262.md.tmp.1376.e43b8405b3a0",
-    "Guild/ISO26262/ISO26262.md.tmp.1376.341c98dbf0f0"
+    "Guild/ISO26262/ISO26262.md.tmp.1376.e43b8405b3a0"
   ]
 }
